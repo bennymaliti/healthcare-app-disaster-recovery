@@ -61,7 +61,7 @@ A production-grade disaster recovery and business continuity solution for health
 - **RTO (Recovery Time Objective):** 15-30 minutes
 - **RPO (Recovery Point Objective):** < 1 hour
 - **DR Strategy:** Pilot Light (minimal footprint in secondary region, scale up on failover)
-- **Compliance:** HIPAA-ready architecture with encryption at rest and in transit
+- **Compliance:** UK GDPR-ready architecture with encryption at rest and in transit
 
 ## 🛠️ Technologies Used
 
